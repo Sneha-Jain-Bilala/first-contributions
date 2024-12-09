@@ -6,6 +6,7 @@ Thank you to all the amazing people who have contributed to this project!
 - [Jane Doe](https://github.com/janedoe)
 - [Tanvi Chouhan](https://github.com/johnsmith)
 - [John Smith](https://github.com/johnsmith)
+- [Krishna Kumar Patel](https://github.com/johnsmith)
 - [Piyush Parwani](https://github.com/johnsmith)
 - [Presha Samdani](https://github.com/samdanipresha)
 - [Ishika Jain](https://github.com/johnsmith)
